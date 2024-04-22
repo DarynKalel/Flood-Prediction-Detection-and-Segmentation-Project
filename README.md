@@ -1,6 +1,6 @@
 # Flood-Prediction-Detection-and-Segmentation-Project
 
-In this projet I built a flood area segmenataion and detection moedl.
+In this projet I built a flood area segmenataion and detection model.
 
 Datasets: "Flood Area Segmentation" and "Kerala Rainfall dataset". 
 
